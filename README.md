@@ -1,0 +1,1 @@
+# Increasing-Property-Tax-Payment-Rates-on-Time-Through-Simplification-of-Communication-with-Citizens
