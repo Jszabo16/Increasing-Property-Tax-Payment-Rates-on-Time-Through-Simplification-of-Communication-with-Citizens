@@ -18,12 +18,12 @@ This file replicates the analysis of the following paper: "*More Timely Payment 
 ```{r message=FALSE}
 rm(list = ls())
 
-setwd("/Users/jakubszabo/Library/CloudStorage/OneDrive-Personal/Desktop/FSEV/FSEV_PC/Tax_compliance")
+setwd("")
 
 # Required Libraries 
 library(tidyverse)
 library(rio)
-library(estimatr) # lm_robust 
+library(estimatr) 
 library(margins)
 library(modelsummary)
 library(sjPlot)
